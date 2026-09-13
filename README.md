@@ -1,6 +1,6 @@
 # Hi, I'm Shruti Singh! 👋
 
-### B.Tech CSE Student | Artificial Intelligence & Machine Learning Enthusiast 🤖
+### B.Tech CSE Student | Artificial Intelligence & Machine Learning Enthusiast 
 
 I'm a 3rd-year B.Tech Computer Science student with a strong interest in
 Artificial Intelligence, Machine Learning and Software Development.
@@ -42,9 +42,9 @@ problem-solving.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 📰 AI Based Fake News Detection
+###  AI Based Fake News Detection
 An AI/ML-based tool that detects whether a news article is real or fake using
 Natural Language Processing and Machine Learning.
 
@@ -52,7 +52,7 @@ Natural Language Processing and Machine Learning.
 
 ---
 
-### 🤖 AI Chatbot – Internal Helpdesk
+###  AI Chatbot – Internal Helpdesk
 An AI-powered chatbot designed to provide automated responses to internal
 helpdesk queries.
 
@@ -60,7 +60,7 @@ helpdesk queries.
 
 ---
 
-### 🩺 Disease Prediction from Symptoms
+### Disease Prediction from Symptoms
 A machine learning project that predicts possible diseases based on given
 symptoms.
 
@@ -68,7 +68,7 @@ symptoms.
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Advanced Machine Learning
 - SQL & Database Management
@@ -86,8 +86,8 @@ I believe in learning by building — one project at a time. 🚀
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [Shruti Singh](YOUR_LINKEDIN_LINK)
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: https://www.linkedin.com/in/shruti-singh-426100299?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 📧 Email: 000shrutisingh000@gmail.com
 
 ---
 
