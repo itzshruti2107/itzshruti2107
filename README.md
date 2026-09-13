@@ -2,7 +2,7 @@
 
 ### B.Tech CSE Student | Artificial Intelligence & Machine Learning Enthusiast 
 
-I'm a 3rd-year B.Tech Computer Science student with a strong interest in
+I'm a 4th-year B.Tech Computer Science student with a strong interest in
 Artificial Intelligence, Machine Learning and Software Development.
 
 I enjoy turning ideas into real-world projects using data, programming and
